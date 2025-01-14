@@ -3,7 +3,7 @@
 #### Description:
 This app can be used to analyse various vibrational modes of discrete mass-spring systems constructed using linear springs. This description will just be a short outline of the features as there is a lot of underlying maths beneath the project that I won't go into!
 
-A zip file is also included which has the app and can be played around with, just a warning it will take a while to install if you don't have MATLAB!
+A zip file is also included which has the app and can be played around with, just a warning it will take a while to install if you don't have MATLAB! (Note this has now been removed as the Zip file is too large to upload. The file is available upon request.)
 
 ## 2D
 In the 2D section there are 4 configuration options.
